@@ -7,6 +7,6 @@ I generally have tried to match every sample provided here with Tensorflow also 
 
 ##### Organization
 This directory is organized as follows:
-- **SimpleXOR**: Simple XOR implementations using both TensorFlow and Keras
+- **SimpleXOR**: Simple XOR implementations using both TensorFlow and Keras.
 
 
